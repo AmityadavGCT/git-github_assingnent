@@ -1,0 +1,48 @@
+Q1. Explain what version control is and its importance in software development.
+
+Ans:- Git is a version control system that developers use all over the world. It helps you track different versions of your code and collaborate with other developers.
+The Importance of Version Control in Software Development Ensures accuracy, collaboration, and efficiency. Its ability to track changes, manage collaboration, and restore previous versions provides a solid foundation for efficient and organized development processes. 
+
+Q2. Explain the Git Workflow, including the staging area, working directory, and repository.
+Ans:-  Git workflows empower teams to determine roles and responsibilities, set boundaries, and identify areas of improvement.
+
+	staging area:- where changes that are made to the working directory are listed
+
+	workinging directory:-  where files are created, edited, deleted.
+
+	Repository:-  where Git permanently stores changes as different versions of the project.
+
+Q3. Explain what .gi1ignore is and why it’s important in version control.
+Ans:-  .gitignore tells git which files it should ignore. It's usually used to avoid committing transient files from your working directory that aren't useful to other collaborators, such as compilation products etc.
+
+Q4.Briefly explain what github is and how it facilitates collaboration and version control also name some alternatives to GitHub.
+Ans:-  GitHub is an American company. It hosts source code of your project in the form of different programming languages and keeps track of the various changes made by programmers.
+
+	Alternative of git:-
+	
+	Mercurial:-  Mercurial is a free, openMsource version control system that is similar to Git in many ways. It is
+	known for its simplicity and speed and is popular among developers who prefer a lightweight tool.
+
+	Subversion:- Subversion ^also known as SVN) is another popular version control system that is similar to Git.
+	It is known for its reliability and simplicity and is often used in large organizations.
+	
+	Concurrent Version System:- CVS(Concurrent Versions System) is an older version control system that is
+	still used by some developers today.
+
+Q5. Describe the process of contributing to open-source project on GitHub in a step-by-step manner.
+Ans:-  To contribute to any project on Git Hub, you can follow these steps:
+first of all find a project to contrute to:-
+	1. Read the project's contribution guidelines
+	2. create a fork of the project
+	3. clone the fork to your local computer
+	4. make your changes
+	5. commit your changes
+	6. push your changes to your fork
+	7. create a pull request
+	8. wait for your pull request to be reviewed
+
+Q6. Deploy Tailwind projects named Youtube, slack, and Gmail clones on GitHub pages and share the deployed link of those three. Expected output - Live hosted URL Link of your deployed respective website with GitHub pages.
+Ans:- 
+youtube clone- https://amityadavgct.github.io/youtube-clone/
+slack clone- https://amityadavgct.github.io/slack-clone/
+gmail clone- https://amityadavgct.github.io/gmail-clone/
